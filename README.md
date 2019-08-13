@@ -7,6 +7,8 @@ Driven by a menu screen. User can choose which program to enter using the menu s
 ♣	Check Book Balancer (Input deposits, withdrawals, beg balance, will balance and keep track of check book)
 ♣ Time Converter (Military and Civilian)
 
+OUTPUT FORMAT IS NOT DISPLAYED CORRECTLY IN DESCRIPTION. IT IS FORMATTED CORRECTLY WHEN PROGRAM IS RUN.
+
 # Exmaple Input/Output from Start 
 -------------------------------------------                                                              
 -------------------------------------------                                                              
